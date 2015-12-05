@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="text-center">
+
+  <img class="img-circle avatar" src="//www.gravatar.com/avatar/602ad0010541523dc2cfb59e492f940b?s=200" alt="Responsive image"/>
+
+  <h3>Hi, I am Sebastian Stenzel, a software developer.</h3>
+  <h3>Check out some of my <a href="{{ "/projects/" | prepend: site.baseurl }}">projects</a>.</h3>
+  {% assign post = site.posts.first %}
+  <h3>Read my latest blog post <a href="{{ post.url | prepend: site.baseurl }}">"{{ post.title }}"</a>.</h3>
+
+</div>

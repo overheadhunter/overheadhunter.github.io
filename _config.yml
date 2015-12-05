@@ -1,0 +1,22 @@
+# Site settings
+title: sebastianstenzel.de
+email: sebastianstenzel at gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal site of Sebastian Stenzel
+url: "https://sebastianstenzel.de" # the base hostname & protocol for your site
+twitter_username: totalvoidness
+github_username:  totalvoidness
+
+# Plugins
+gems:
+  - jemoji
+
+# Outputting
+permalink: /blog/:year/:month/:day/:title.html
+
+# Github Flavoured Markdown
+kramdown:
+  input: GFM
+  # syntax_highlighter: rouge
+  # enable_coderay: true
+  coderay_line_numbers: nil
