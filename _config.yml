@@ -4,8 +4,8 @@ email: sebastianstenzel at gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal site of Sebastian Stenzel
 url: "https://sebastianstenzel.de" # the base hostname & protocol for your site
-twitter_username: totalvoidness
-github_username:  totalvoidness
+twitter_username: overheadhunter
+github_username:  overheadhunter
 
 # Plugins
 gems:

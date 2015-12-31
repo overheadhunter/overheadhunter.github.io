@@ -32,6 +32,6 @@ For anyone, who cares about privacy, should use this. But for some reason not ev
 - Allow to mount as many encrypted volumes as you want independently
 - Run on all modern operating systems
 
-And today I’m proud to release the first public version of my source code on github: [github.com/totalvoidness/open-cloud-encryptor](http://github.com/totalvoidness/open-cloud-encryptor)
+And today I’m proud to release the first public version of my source code on github: [github.com/cryptomator/cryptomator](http://github.com/cryptomator/cryptomator)
 
 Its a Java project using JavaFX 2 user interfaces. That means that you need Java 7 with jfxrt.jar enabled or Java 8. As soon as Oracle releases the final version of Java 8 (about 2 months from now), I will provide precompiled consumer-friendly .exes, .dmgs, .rpms, .debs, … for your OS of choice. Until then I would like to encourage developers to help me finalize this project. There are still a few small things that need to be done.
