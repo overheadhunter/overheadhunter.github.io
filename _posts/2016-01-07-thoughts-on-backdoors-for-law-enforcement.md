@@ -24,7 +24,7 @@ What does this mean? First, let's agree on two more assumptions:
 
 This leaves us with a 1:1 mapping between crimes and victims. If now the victimization rate for cybercrime is higher than the one for "offline crimes", at least 50% of these crimes (11.8 million) must have been cybercrimes. But both assumptions are obviously false. Even though in reality people become cybercrime victims repeatedly, the number of victims is _still_ higher than for conventional crimes. This, as well as the fact many people don't report cybercrimes, leads to the assumption that the dark figure must be enormous. So these 11.8 million cybercrimes in 2012 are just the *lower* limit.
 
-And even if only 10% of this absurdly low estimated number of cybercrimes could be prevented by using encryption: Isn't it a good deal to actually _prevent_ millions of crimes instead of just _convicting_ 2,606 murderers?
+And even if only 10% of this absurdly low estimated number of cybercrimes could be prevented by using encryption: Isn't it a good deal to actually _prevent_ several millions of crimes instead of just _convicting_ 1,824 additional murderers?
 
 Counter terrorists win.
 
