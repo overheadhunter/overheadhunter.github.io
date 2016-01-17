@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="780" height="585" xmlns="http://www.w3.org/2000/svg" fill="transparent">
+  <defs>
+      <marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" orient="auto">
+          <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+      </marker>
+  </defs>
+
+  <g fill="black" style="font-family: Helvetica, Arial, sans-serif;">
+    <text x="50" y="50" text-anchor="middle">A (s=5)</text>
+    <text x="50" y="70" text-anchor="middle">Knows: x, y</text>
+    <text x="730" y="50" text-anchor="middle">M (s=5)</text>
+    <text x="730" y="70" text-anchor="middle">Knows: t, z</text>
+    <text x="390" y="530" text-anchor="middle">C (c=17)</text>
+    <text x="390" y="550" text-anchor="middle">Chooses t=8</text>
+
+    <text x="200" y="200" text-anchor="start">x = t * c = 136</text>
+    <text x="200" y="300" text-anchor="end">y = x * s = 680</text>
+    <text x="580" y="200" text-anchor="end">t = 5</text>
+    <text x="580" y="220" text-anchor="end">z = y / c = 40</text>
+  </g>
+
+  <g style="marker-end: url(#markerArrow)" stroke="black" stroke-width="2">
+    <line x1="385" y1="480" x2="95" y2="100"/>
+    <line x1="75" y1="100" x2="365" y2="480"/>
+    <line x1="395" y1="480" x2="685" y2="100"/>
+  </g>
+</svg>
