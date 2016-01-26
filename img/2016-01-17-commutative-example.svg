@@ -17,7 +17,7 @@
 
     <text x="200" y="200" text-anchor="start">x = t * c = 136</text>
     <text x="200" y="300" text-anchor="end">y = x * s = 680</text>
-    <text x="580" y="200" text-anchor="end">t = 5</text>
+    <text x="580" y="200" text-anchor="end">t = 8</text>
     <text x="580" y="220" text-anchor="end">z = y / c = 40</text>
   </g>
 
